@@ -1,0 +1,50 @@
+Boston Celtics   Team Statistics: 
+
+Jayson Tatum           | Team: Boston Celtics       | PPG: 28.1 | RPG: 8.6  | APG: 4.5  | SPG: 1.1  | BPG: 0.7  | FGP: 46.90 %
+Jaylen Brown           | Team: Boston Celtics       | PPG: 23.7 | RPG: 6.1  | APG: 3.5  | SPG: 1.0  | BPG: 0.4  | FGP: 49.10 %
+Kristaps Porzingis     | Team: Boston Celtics       | PPG: 20.3 | RPG: 7.2  | APG: 2.0  | SPG: 0.8  | BPG: 1.9  | FGP: 51.80 %
+Jrue Holiday           | Team: Boston Celtics       | PPG: 14.8 | RPG: 5.2  | APG: 6.1  | SPG: 1.4  | BPG: 0.6  | FGP: 47.70 %
+Derrick White          | Team: Boston Celtics       | PPG: 13.9 | RPG: 3.9  | APG: 4.2  | SPG: 1.1  | BPG: 1.0  | FGP: 46.40 %
+
+
+CSI Dolphins Team Statistics: 
+
+Daniel Voyevoda        | Team: CSI Dolphins         | PPG: 46.5 | RPG: 8.0  | APG: 12.0 | SPG: 7.0  | BPG: 9.0  | FGP: 98.00 %
+
+
+Golden State Warriors   Team Statistics: 
+
+Stephen Curry          | Team: Golden State Warriors   | PPG: 29.4 | RPG: 4.8  | APG: 6.3  | SPG: 1.2  | BPG: 0.4  | FGP: 47.10 %
+Klay Thompson          | Team: Golden State Warriors   | PPG: 19.9 | RPG: 3.7  | APG: 2.3  | SPG: 0.6  | BPG: 0.5  | FGP: 43.60 %
+Draymond Green         | Team: Golden State Warriors   | PPG: 8.7  | RPG: 7.0  | APG: 6.8  | SPG: 1.0  | BPG: 0.8  | FGP: 52.30 %
+Andrew Wiggins         | Team: Golden State Warriors   | PPG: 15.6 | RPG: 4.9  | APG: 2.1  | SPG: 0.9  | BPG: 0.6  | FGP: 44.50 %
+Kevon Looney           | Team: Golden State Warriors   | PPG: 6.3  | RPG: 7.8  | APG: 2.5  | SPG: 0.4  | BPG: 0.7  | FGP: 60.20 %
+
+
+Los Angeles Lakers   Team Statistics: 
+
+LeBron James           | Team: Los Angeles Lakers   | PPG: 27.2 | RPG: 7.4  | APG: 7.0  | SPG: 1.5  | BPG: 0.6  | FGP: 50.40 %
+Anthony Davis          | Team: Los Angeles Lakers   | PPG: 23.8 | RPG: 10.2 | APG: 2.5  | SPG: 1.1  | BPG: 2.1  | FGP: 52.00 %
+D'Angelo Russell       | Team: Los Angeles Lakers   | PPG: 17.6 | RPG: 3.0  | APG: 6.2  | SPG: 1.0  | BPG: 0.3  | FGP: 46.50 %
+Austin Reaves          | Team: Los Angeles Lakers   | PPG: 13.4 | RPG: 3.1  | APG: 3.9  | SPG: 0.6  | BPG: 0.2  | FGP: 48.70 %
+Rui Hachimura          | Team: Los Angeles Lakers   | PPG: 12.1 | RPG: 4.5  | APG: 1.3  | SPG: 0.5  | BPG: 0.4  | FGP: 49.20 %
+
+
+Milwaukee Bucks   Team Statistics: 
+
+Giannis Antetokounmpo   | Team: Milwaukee Bucks      | PPG: 30.2 | RPG: 11.4 | APG: 5.9  | SPG: 1.2  | BPG: 1.0  | FGP: 60.30 %
+Damian Lillard         | Team: Milwaukee Bucks      | PPG: 25.8 | RPG: 4.1  | APG: 6.5  | SPG: 0.9  | BPG: 0.3  | FGP: 44.20 %
+Khris Middleton        | Team: Milwaukee Bucks      | PPG: 15.3 | RPG: 4.6  | APG: 4.0  | SPG: 0.8  | BPG: 0.3  | FGP: 46.50 %
+Brook Lopez            | Team: Milwaukee Bucks      | PPG: 13.6 | RPG: 6.8  | APG: 1.6  | SPG: 0.5  | BPG: 2.5  | FGP: 52.90 %
+Bobby Portis           | Team: Milwaukee Bucks      | PPG: 11.8 | RPG: 7.2  | APG: 1.3  | SPG: 0.6  | BPG: 0.4  | FGP: 48.30 %
+
+
+Phoenix Suns   Team Statistics: 
+
+Kevin Durant           | Team: Phoenix Suns         | PPG: 27.1 | RPG: 6.5  | APG: 5.4  | SPG: 0.9  | BPG: 1.3  | FGP: 53.20 %
+Devin Booker           | Team: Phoenix Suns         | PPG: 25.6 | RPG: 4.3  | APG: 6.8  | SPG: 1.0  | BPG: 0.4  | FGP: 48.90 %
+Bradley Beal           | Team: Phoenix Suns         | PPG: 20.7 | RPG: 3.9  | APG: 5.1  | SPG: 0.7  | BPG: 0.3  | FGP: 46.20 %
+Jusuf Nurkic           | Team: Phoenix Suns         | PPG: 12.3 | RPG: 9.4  | APG: 2.8  | SPG: 0.9  | BPG: 1.1  | FGP: 50.60 %
+Grayson Allen          | Team: Phoenix Suns         | PPG: 11.5 | RPG: 3.1  | APG: 2.2  | SPG: 0.8  | BPG: 0.2  | FGP: 44.80 %
+
+

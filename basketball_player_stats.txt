@@ -1,0 +1,75 @@
+LeBron James  
+Los Angeles Lakers  
+27.2 7.4 7.0 1.5 0.6 50.4  
+Anthony Davis  
+Los Angeles Lakers  
+23.8 10.2 2.5 1.1 2.1 52.0  
+D'Angelo Russell  
+Los Angeles Lakers  
+17.6 3.0 6.2 1.0 0.3 46.5  
+Austin Reaves  
+Los Angeles Lakers  
+13.4 3.1 3.9 0.6 0.2 48.7  
+Rui Hachimura  
+Los Angeles Lakers  
+12.1 4.5 1.3 0.5 0.4 49.2  
+Stephen Curry  
+Golden State Warriors  
+29.4 4.8 6.3 1.2 0.4 47.1  
+Klay Thompson  
+Golden State Warriors  
+19.9 3.7 2.3 0.6 0.5 43.6  
+Draymond Green  
+Golden State Warriors  
+8.7 7.0 6.8 1.0 0.8 52.3  
+Andrew Wiggins  
+Golden State Warriors  
+15.6 4.9 2.1 0.9 0.6 44.5  
+Kevon Looney  
+Golden State Warriors  
+6.3 7.8 2.5 0.4 0.7 60.2  
+Jayson Tatum  
+Boston Celtics  
+28.1 8.6 4.5 1.1 0.7 46.9  
+Jaylen Brown  
+Boston Celtics  
+23.7 6.1 3.5 1.0 0.4 49.1  
+Kristaps Porzingis  
+Boston Celtics  
+20.3 7.2 2.0 0.8 1.9 51.8  
+Jrue Holiday  
+Boston Celtics  
+14.8 5.2 6.1 1.4 0.6 47.7  
+Derrick White  
+Boston Celtics  
+13.9 3.9 4.2 1.1 1.0 46.4  
+Kevin Durant  
+Phoenix Suns  
+27.1 6.5 5.4 0.9 1.3 53.2  
+Devin Booker  
+Phoenix Suns  
+25.6 4.3 6.8 1.0 0.4 48.9  
+Bradley Beal  
+Phoenix Suns  
+20.7 3.9 5.1 0.7 0.3 46.2  
+Jusuf Nurkic  
+Phoenix Suns  
+12.3 9.4 2.8 0.9 1.1 50.6  
+Grayson Allen  
+Phoenix Suns  
+11.5 3.1 2.2 0.8 0.2 44.8  
+Giannis Antetokounmpo  
+Milwaukee Bucks  
+30.2 11.4 5.9 1.2 1.0 60.3  
+Damian Lillard  
+Milwaukee Bucks  
+25.8 4.1 6.5 0.9 0.3 44.2  
+Khris Middleton  
+Milwaukee Bucks  
+15.3 4.6 4.0 0.8 0.3 46.5  
+Brook Lopez  
+Milwaukee Bucks  
+13.6 6.8 1.6 0.5 2.5 52.9  
+Bobby Portis  
+Milwaukee Bucks  
+11.8 7.2 1.3 0.6 0.4 48.3  
