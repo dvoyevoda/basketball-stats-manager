@@ -1,16 +1,16 @@
 
 Boston Celtics   Team Statistics: 
 
-Jayson Tatum           | Team: Boston Celtics       | PPG: 28.1 | RPG: 8.6  | APG: 4.5  | SPG: 1.1  | BPG: 0.7  | FGP: 46.90 %
+Jayson Tatum           | Team: Boston Celtics       | PPG: 100.0 | RPG: 8.6  | APG: 4.5  | SPG: 1.1  | BPG: 0.7  | FGP: 46.90 %
 Jaylen Brown           | Team: Boston Celtics       | PPG: 23.7 | RPG: 6.1  | APG: 3.5  | SPG: 1.0  | BPG: 0.4  | FGP: 49.10 %
 Kristaps Porzingis     | Team: Boston Celtics       | PPG: 20.3 | RPG: 7.2  | APG: 2.0  | SPG: 0.8  | BPG: 1.9  | FGP: 51.80 %
 Jrue Holiday           | Team: Boston Celtics       | PPG: 14.8 | RPG: 5.2  | APG: 6.1  | SPG: 1.4  | BPG: 0.6  | FGP: 47.70 %
 Derrick White          | Team: Boston Celtics       | PPG: 13.9 | RPG: 3.9  | APG: 4.2  | SPG: 1.1  | BPG: 1.0  | FGP: 46.40 %
 
 
-CSI Team Statistics: 
+CSI Dolphns Team Statistics: 
 
-Daniel                 | Team: CSI                  | PPG: 0.0  | RPG: 100.0 | APG: 39.0 | SPG: 3.4  | BPG: 5.2  | FGP: 58.32 %
+Daniel                 | Team: CSI Dolphns          | PPG: 99.0 | RPG: 0.0  | APG: 39.0 | SPG: 5.1  | BPG: 5.6  | FGP: 100.00%
 
 
 Golden State Warriors   Team Statistics: 
@@ -28,7 +28,7 @@ LeBron James           | Team: Los Angeles Lakers   | PPG: 27.2 | RPG: 7.4  | AP
 Anthony Davis          | Team: Los Angeles Lakers   | PPG: 23.8 | RPG: 10.2 | APG: 2.5  | SPG: 1.1  | BPG: 2.1  | FGP: 52.00 %
 D'Angelo Russell       | Team: Los Angeles Lakers   | PPG: 17.6 | RPG: 3.0  | APG: 6.2  | SPG: 1.0  | BPG: 0.3  | FGP: 46.50 %
 Austin Reaves          | Team: Los Angeles Lakers   | PPG: 13.4 | RPG: 3.1  | APG: 3.9  | SPG: 0.6  | BPG: 0.2  | FGP: 48.70 %
-Rui Hachimura          | Team: Los Angeles Lakers   | PPG: 12.1 | RPG: 4.5  | APG: 1.3  | SPG: 0.5  | BPG: 0.4  | FGP: 100.00%
+Rui Hachimura          | Team: Los Angeles Lakers   | PPG: 12.1 | RPG: 4.5  | APG: 1.3  | SPG: 0.5  | BPG: 0.4  | FGP: 49.20 %
 
 
 Milwaukee Bucks   Team Statistics: 
