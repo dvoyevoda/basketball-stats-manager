@@ -1,11 +1,13 @@
+// STD Library Header Files
 #include <iostream>
 #include <fstream>
 #include <sstream>
 #include <map>
 
-#include "Player.h"
-#include "Team.h"
-#include "Functions.h"
+// Project Header Files
+#include "player.h"
+#include "team.h"
+#include "functions.h"
 
 using namespace std;
 
@@ -23,14 +25,26 @@ int main() {
 
     while (getline(inFile, playerName)) {
         getline(inFile, teamName);
-        getline(inFile, statsLine);
-        stats.clear();
-        istringstream ss(statsLine);
-        while (ss >> stat) stats.push_back(stat);
-        if (stats.size() != 6) continue;
+        getline(inFile, statsLine); // get the line with all 6 stats
+
+        stats.clear();  // reset vector each run
+        istringstream ss(statsLine);  // allow taking individual input from string with >>
+
+        while (ss >> stat) stats.push_back(stat);  // essentially converting string stats to vector stats
+
+        // Safety Check
+        if (stats.size() != 6) {
+            cerr << "Error: expected 6 stats for player " << playerName << ", got " << stats.size() << endl;
+            continue; // skip malformed entries
+        }
 
         Player player(playerName, teamName, stats);
-        if (teams.find(teamName) == teams.end()) teams[teamName] = Team(teamName);
+
+        // search for teamName (Key) in teams map, if not found then assign teamName string (Key) to a new Team object (Value)
+        // otherwise add player to existing team
+        if (teams.find(teamName) == teams.end()) {
+            teams[teamName] = Team(teamName);
+        }
         teams[teamName].addPlayer(player);
     }
 

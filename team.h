@@ -2,23 +2,22 @@
 #define TEAM_H
 
 #include <vector>
-#include <string>
-#include "Player.h"
-using namespace std;
+#include <iostream>
+#include "player.h"
 
 class Team {
 public:
-    Team(string name = "Unknown");
+    Team(std::string name = "Unknown");
 
     void addPlayer(const Player& p);
-    void printPlayers(ostream& out) const;
+    void printPlayers(std::ostream& out) const;
 
-    vector<Player>& getPlayers();
-    const vector<Player>& getPlayers() const;
+    std::vector<Player>& getPlayers();
+    const std::vector<Player>& getPlayers() const;
 
 private:
-    string teamName;
-    vector<Player> players;
+    std::string teamName;
+    std::vector<Player> players;
 };
 
 #endif

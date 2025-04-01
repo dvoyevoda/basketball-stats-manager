@@ -1,4 +1,5 @@
-#include "Team.h"
+#include "team.h"
+using namespace std;
 
 Team::Team(string name) : teamName(name) {}
 
@@ -13,5 +14,5 @@ void Team::printPlayers(ostream& out) const {
     }
 }
 
-vector<Player>& Team::getPlayers() { return players; }
-const vector<Player>& Team::getPlayers() const { return players; }
+vector<Player>& Team::getPlayers() { return players; }  // for setter functions
+const vector<Player>& Team::getPlayers() const { return players; } // const for getter functions to prevent accidental change
