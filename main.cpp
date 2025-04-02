@@ -49,21 +49,18 @@ int main() {
     }
 
     int input;
-    bool firstRun = true;
-
-    cout << "\n======= Basketball Stats Manager =======\n\n"
-        << "Choose an option by entering the number:\n\n"
-        << "  1.  View all players and statistics.\n"
-        << "  2.  View stats for a specific player.\n"
-        << "  3.  View stats for a specific team.\n"
-        << "  4.  Update stats for a specific player.\n"
-        << "  5.  Insert a new player and their stats.\n"
-        << "  6.  Export all data to a file.\n"
-        << "  0.  Exit.\n\n"
-        << "Your choice: ";
 
     do {
-        if (!firstRun) cout << "Enter another option: ";
+        cout << "\n======= Basketball Stats Manager =======\n\n"
+            << "Choose an option by entering the number:\n\n"
+            << "  1.  View all players and statistics.\n"
+            << "  2.  View stats for a specific player.\n"
+            << "  3.  View stats for a specific team.\n"
+            << "  4.  Update stats for a specific player.\n"
+            << "  5.  Insert a new player and their stats.\n"
+            << "  6.  Export all data to a file.\n"
+            << "  0.  Exit.\n\n"
+            << "Your choice: ";
         cin >> input;
 
         switch (input) {
@@ -98,7 +95,6 @@ int main() {
             }
             default: cout << "Invalid Input. Try again.\n\n"; break;
         }
-        firstRun = false;
     } while (input != 0);
 
     return 0;
